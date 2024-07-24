@@ -2,7 +2,6 @@
   
 
 <a href="https://github.com/Altair-05" target="_blank">
-<img src=https://img.freepik.com/premium-photo/anime-girl-sunflower-field-mobile-wallpaper_973189-16535.jpg?w=740&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
   
 
