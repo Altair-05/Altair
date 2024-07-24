@@ -32,7 +32,7 @@ and I prefer sunflowers 🌻 over money 🤑
 
 </td><td valign="top" width="50%">
 <div align="center">
-<img src="https://img.freepik.com/premium-photo/anime-girl-sunflower-field-mobile-wallpaper_973189-16535.jpg?w=740" align="center" style="width: 100%" />
+<img src= "https://steamuserimages-a.akamaihd.net/ugc/1858296860120674733/83D3C42A0D00C1A4D0D4DEA3E02E5871ED5EB7C4/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" align="center" style="width: 100%" />
 </div>  
 
 
