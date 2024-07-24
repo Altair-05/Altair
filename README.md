@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on me😅  
   
 
-- 🌱 I’m currently machine learning and cyber security🤩  
+- 🌱 I’m currently learning machine learning and cyber security🤩  
   
 
 - ❓ Ask me about to dsa and frontend or a bit about cybersecurity🤗  
@@ -86,13 +86,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Altair-05&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
+ 
 
   
 
@@ -109,4 +103,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
