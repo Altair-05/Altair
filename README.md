@@ -2,7 +2,7 @@
   
 
 <a href="https://github.com/Altair-05" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.freepik.com/premium-photo/anime-girl-sunflower-field-mobile-wallpaper_973189-16535.jpg?w=740&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
   
 
@@ -15,7 +15,7 @@ I am passionate about expanding my knowledge and skills. Eager to learn and expl
 <br/>  
 
 
-## Rapidfire  
+## Quickfire  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on me😅  
