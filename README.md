@@ -27,7 +27,7 @@ I am passionate about expanding my knowledge and skills. Eager to learn and expl
   
 
 - ⚡ Fun fact: My Git commits are like my bank balance—currently very low, but they will increase over time!😆
-and I prefer sunflowers 🌻 over money 🤑  
+and I prefer sunflowers 🌻 over tokens 
 
 
 </td><td valign="top" width="50%">
