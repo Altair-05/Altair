@@ -23,7 +23,7 @@ I am passionate about expanding my knowledge and skills. Eager to learn and expl
 - 🌱 I’m currently learning machine learning and cyber security🤩  
   
 
-- ❓ Ask me about to dsa and frontend or a bit about cybersecurity🤗  
+- ❓ Ask me about dsa and frontend or a bit about cybersecurity🤗  
   
 
 - ⚡ Fun fact: My Git commits are like my bank balance—currently very low, but they will increase over time!😆
