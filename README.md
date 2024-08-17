@@ -26,8 +26,7 @@ I am passionate about expanding my knowledge and skills. Eager to learn and expl
 - ❓ Ask me about dsa and frontend or a bit about cybersecurity🤗  
   
 
-- ⚡ Fun fact: My Git commits are like my bank balance—currently very low, but they will increase over time!😆
-and I prefer sunflowers 🌻 over tokens 
+- ⚡ Fun fact: I'm just the right person ,wrong time 🌻 
 
 
 </td><td valign="top" width="50%">
