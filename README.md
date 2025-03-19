@@ -78,6 +78,7 @@
 ### 📈 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Altair-05&show_icons=true&theme=radical" />
+  
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Altair-05&theme=radical" />
 </p>
 
